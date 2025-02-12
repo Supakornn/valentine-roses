@@ -26,3 +26,7 @@ A delightful web application that lets users send virtual roses with personalize
 
 - **Backend:**
   - Firebase Firestore
+
+## Credits 🙏
+
+- [codepen](https://codepen.io/maaarj/pen/gmNeXd)
